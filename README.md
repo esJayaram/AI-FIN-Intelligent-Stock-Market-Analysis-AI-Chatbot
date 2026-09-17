@@ -1,4 +1,4 @@
-# MarketMind AI — Python Stock Market Chatbot
+AI-FIN-Intelligent-Stock-Market-Analysis-AI-Chatbot
 
 A portfolio-ready AI stock-market analysis application built with Python and Streamlit.
 
